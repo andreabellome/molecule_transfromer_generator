@@ -1,23 +1,40 @@
 # Molecule Transformers Generator
-mtg
 
-## Requirements
-use Python version 3.10
+This folder contains Molecule Transformer Generator (MGT), i.e., a collection of scripts to generate new molecules using a simple transformer architecture in Python. The work is based on the publications [[1]](#1) and [[2]](#2).
 
-use Tensorflow
+## Installation
 
-Run
+To work with the repository, one can simply clone it in the local machine:
 
+```bash
+git clone https://github.com/andreabellome/molecule_transfromer_generator.git
+```
+
+If one wants to specify a specific target directory (should be empty):
+
+```bash
+git clone https://github.com/andreabellome/molecule_transfromer_generator.git /path/to/your/target/directory
+```
+
+where `/path/to/your/target/directory` should be replaced with the desired local taregt directory.
+
+The main requirements is to use a [Python](https://www.python.org/) version that is [3.10](https://www.python.org/downloads/release/python-3100/), since [Tensorflow](https://www.tensorflow.org/) is employed.
+
+All the other requirements can be downloaded using:
+
+```bash
 pip install -r requirements.txt
+```
 
-## Contributors
-Only invited developers can contribute to this repository.
+Please use the script joudiciously as it might take high computational effort.
 
-Current contributors:
+## License & Contributors
 
-Lorenzo Graziani
+The work is under license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/), that is an Attribution Non-Commercial license. One can find the specifics in the [LICENSE](/LICENSE) file.
 
-Andrea Bellome
+Only invited developers can contribute to this repository. Current active contributors are:
+- Lorenzo Graziani
+- Andrea Bellome
 
 ## References
 
