@@ -2,13 +2,15 @@
 mtg
 
 ## Requirements
-use Python version 3.10 \
-use Tensorflow \
+use Python version 3.10
 
-Run \
+use Tensorflow
+
+Run
+
 pip install -r requirements.txt
 
-
 ## Contributors
-Lorenzo Graziani \
+Lorenzo Graziani
+
 Andrea Bellome
