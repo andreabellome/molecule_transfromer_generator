@@ -14,6 +14,7 @@ pip install -r requirements.txt
 Only invited developers can contribute to this repository.
 
 Current contributors:
+
 Lorenzo Graziani
 
 Andrea Bellome
