@@ -1,4 +1,4 @@
-# mtg
+# Molecule Transformers Generator
 mtg
 
 ## Requirements
