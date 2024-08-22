@@ -11,6 +11,9 @@ Run
 pip install -r requirements.txt
 
 ## Contributors
+Only invited developers can contribute to this repository.
+
+Current contributors:
 Lorenzo Graziani
 
 Andrea Bellome
