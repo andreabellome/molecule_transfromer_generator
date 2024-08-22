@@ -14,3 +14,6 @@ pip install -r requirements.txt
 Lorenzo Graziani
 
 Andrea Bellome
+
+# References
+
